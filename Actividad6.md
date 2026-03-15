@@ -8,6 +8,21 @@ La falta de empatía y escucha activa al momento de no validar la comprensión n
 ## ----------
 El primer error que se cometió en la comunicación fue cuando durante la ejecución no se comentaron las situaciones generando un cúmulo de inconformidades, otra parte fue que ambas partes quisieron unicamente imponer sus opiniones sin escuchar a los demás, ni si quiera a la otra parte de una forma activa ni existieron validaciones de comprensión lo que genero los malentendidos además de la clara falta de empatía por las partes.
 
+## Mejora del diálogo
+-Compañeros, he estado revisando la presentación y siento que hay algunas partes que podrían quedar más claras ¿Podríamos revisar juntos la presentación y ver si es posible ajustar algunos puntos?
+
+-Entiendo tu punto. Pero creo que nos llevaría bastante tiempo hacer dichos cambios.
+
+-Yo creo que ambos tienen razón, sólo revisemos cúales son realmente necesarios.
+
+-Me parece bien. Entonces revisemos qué podemos dejar para las próximas entregas.
+
+-De acuerdo, entonces escuchemos sugerencias.
+
+## Comunicación no verbal
+El tono de voz influye al transmitir apertura o cerrazón. Si las personas hablan con un tono calmado y responden sin elevarlo, se genera un ambiente de respeto. Un tono neutral evita que las palabras se interpreten como ataques personales.
+
+El lenguaje corporal es clave para mostrar interés. Mantener contacto visual, asentir mientras otro habla y evitar brazos cruzados demuestra disposición a escuchar. Posturas abiertas invitan al diálogo y reducen la tensión.
 
 ## Reflexión Final
 La falta de escucha activa, comunicación pasiva al no comunicar sus ideas en el momento además de la comunicación agresiva que se dio en el momento de la comunicación fueron los principales errores que se cometieron, además de no validar la información para evitar mal entendidos.
