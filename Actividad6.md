@@ -1,4 +1,6 @@
 # Actividad 6
+### Elder Rodolfo Ché Mijangos Carné #202503236
+### Carlos Rolando Barrios Estrada Carné #202500432
 ## Análisis del problema comunicativo
 El problema principal de este escenario consta de dos partes, primero que uno de los miembros considera que el trabajo aún no esta completo imponiendo su idea sobre la modificación de dicho proyecto generando un desacuerdo con otro miembro. El problema principal radica en que posiblemente durante la elaboración del proyecto hubo una comunicación pasiva donde no se comentaron las inquitudes u opiniones en el momento cuando se comentaron las inquietudes no existio una empatpia ni escucha activa, lo que provoco tensiones y comentarios fuera de lugar entre los miembros del equipo.
 ## ---------------
