@@ -11,3 +11,13 @@ Un ejemplo de esto fue el proyecto recientemente entregado, si no lo recuerdan c
 Es por ello que yo sugiero una impementación de una nueva herramienta de organización para el equipo, he investigado y hay varias plataformas que podemos discutir para su impementación, una de ellas puede ser notion, trello o google calendar aprovechando nuestro correo institucional. 
 4. Beneficios
 Se que es una migración y un cambio de costumbre fuerte, pero les aseguro que este cambio de herramientas mejorará nuestras entregas y nos permitirá ser más organizados con las responsabilidades que tenemos a nuestro cargo. Mientras que en nuestro chat tardamos 10-15 minutos buscando entre todos los mensajes, en esta herramienta solo tenemos que entrar, revisar nuestras actividades y fin ¡En menos de 5 minutos! entonces que dicen ¿Listos para mejorar como empresa?
+
+
+### Uso de credibilidad
+La propuesta fundamenta su validez en la exposición de un fallo técnico real y medible ocurrido durante el desarrollo del sistema de tickets. Al detallar que la desorganización causó el olvido del módulo de reservas, un retraso de 7 días y una pérdida económica de 200 dólares, el argumento deja de ser una opinión para convertirse en una necesidad basada en hechos. Este uso de datos financieros y de gestión temporal otorga un peso irrefutable a la urgencia de abandonar el chat como herramienta principal.
+
+### Estructura efectiva del mensaje
+El discurso emplea una narrativa de contraste que guía al oyente desde el conflicto hasta la resolución. Comienza cuestionando el cansancio grupal para generar empatía, escala hacia la evidencia del error pasado para crear conciencia y culmina con una solución que promete alivio inmediato. Esta secuencia asegura que la audiencia comprenda primero el porqué del cambio antes de presentar el qué, cerrando con una pregunta movilizadora que fomenta la toma de decisiones colectiva.
+
+### Voz activa y concisión
+El mensaje se construye con un lenguaje directo que elimina ambigüedades, utilizando verbos de acción que posicionan al proponente como un líder proactivo. Al evitar rodeos innecesarios y centrarse en la comparación de tiempos reduciendo la búsqueda de información de 15 a solo 5 minutos, la propuesta logra transmitir un beneficio complejo de forma breve y potente. Esta economía del lenguaje asegura que el impacto del mensaje se mantenga alto sin diluirse en explicaciones técnicas excesivas.
